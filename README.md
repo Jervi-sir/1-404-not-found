@@ -36,11 +36,10 @@
 
 ## Overview
 
-### Larger Screen ---
+### Larger Screen 
 ![screenshot](screenshots/default.png)
-
-### Phone's Screen ---
-
+___
+### Phone's Screen
 ![screenshot](screenshots/phone.png)
 
 ### Where can I see your demo
