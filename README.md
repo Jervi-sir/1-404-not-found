@@ -36,7 +36,8 @@
 
 ## Overview
 
-![screenshot](images/404-not-found.gif)
+![screenshot](screenshots/default)
+![screenshot](screenshots/phone)
 
 ### Where can I see your demo
 
