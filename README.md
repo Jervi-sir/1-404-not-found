@@ -37,6 +37,7 @@
 ## Overview
 
 ![screenshot](screenshots/default.png)
+___
 ![screenshot](screenshots/phone.png)
 
 ### Where can I see your demo
