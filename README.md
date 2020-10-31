@@ -36,7 +36,10 @@
 
 ## Overview
 
+### Larger Screen
 ![screenshot](screenshots/default.png)
+
+### Phone's Screen
 ___
 ![screenshot](screenshots/phone.png)
 
