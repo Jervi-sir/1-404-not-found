@@ -42,7 +42,7 @@ ___
 ### Phone's Screen
 
 <p align="center">
-  <img width="80%" height="80%" src="screenshots/phone.png">
+  <img src="screenshots/phone.png">
 </p>
 
 ### Where can I see your demo
