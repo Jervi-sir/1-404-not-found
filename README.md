@@ -40,8 +40,9 @@
 ![screenshot](screenshots/default.png)
 ___
 ### Phone's Screen
+<div align="center">
 ![screenshot](screenshots/phone.png)
-
+</div>
 ### Where can I see your demo
 
 - You can click on the link her --> [Demo](https://devchallenges-404-not-found.ishakbhn.vercel.app/)
@@ -79,7 +80,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub   [@ishakbhn](https://{github.com/ishakbhn})
+- GitHub   [@Jervi-sir](https://{github.com/Jervi-sir})
 - Facebook [Gacem_humen](https://www.facebook.com/gacem.humen/)
 - Twitter  comingsoon
 - Youtube  comingsoon
