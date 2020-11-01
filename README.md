@@ -40,9 +40,11 @@
 ![screenshot](screenshots/default.png)
 ___
 ### Phone's Screen
-!<div align="center">
-[screenshot](screenshots/phone.png)
-</div>
+
+<p align="center">
+  <img width="80%" height="80%" src="screenshots/phone.png">
+</p>
+
 ### Where can I see your demo
 
 - You can click on the link her --> [Demo](https://devchallenges-404-not-found.ishakbhn.vercel.app/)
