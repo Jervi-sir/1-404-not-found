@@ -40,8 +40,8 @@
 ![screenshot](screenshots/default.png)
 ___
 ### Phone's Screen
-<div align="center">
-![screenshot](screenshots/phone.png)
+!<div align="center">
+[screenshot](screenshots/phone.png)
 </div>
 ### Where can I see your demo
 
