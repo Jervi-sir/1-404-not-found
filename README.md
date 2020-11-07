@@ -36,7 +36,14 @@
 
 ## Overview
 
-![screenshot](images/404-not-found.gif)
+### Larger Screen 
+![screenshot](screenshots/default.png)
+___
+### Phone's Screen
+
+<p align="center">
+  <img src="screenshots/phone.png">
+</p>
 
 ### Where can I see your demo
 
@@ -75,7 +82,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub   [@ishakbhn](https://{github.com/ishakbhn})
+- GitHub   [@Jervi-sir](https://{github.com/Jervi-sir})
 - Facebook [Gacem_humen](https://www.facebook.com/gacem.humen/)
 - Twitter  comingsoon
 - Youtube  comingsoon
