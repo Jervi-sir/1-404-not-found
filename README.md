@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="#">
+    <a href="https://github.com/Jervi-sir/1-404-not-found">
       Solution
     </a>
     <span> | </span>
-    <a href="#">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
     <span> | </span>
-    <a href="#">
+    <a href="https://1-404-not-found-jervi.netlify.app/">
       Demo
     </a>
   </h3>
